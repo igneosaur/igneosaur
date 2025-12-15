@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ey up
+
+I'm over on [GitLab](https://gitlab.com/users/DannyEdwards/projects), in case you're wondering.
 
 <!--
 **igneosaur/igneosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
